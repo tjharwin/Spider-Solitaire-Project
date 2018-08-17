@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Spider Solitaire Project:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Spider_Solitaire_Project_jar</output-path>
+    <root id="archive" name="Spider Solitaire Project.jar">
+      <element id="module-output" name="Spider Solitaire Project" />
+      <element id="dir-copy" path="$PROJECT_DIR$/resources" />
+    </root>
+  </artifact>
+</component>
